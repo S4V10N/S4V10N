@@ -1,26 +1,48 @@
-# 💫 About Me
-🌱 I’m currently learning **React Native**.
+**<h1 align="center">Hi 👋, I'm Didia praise</h1>**
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devsavion)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_savion)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/didiapraise)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dev_Savion)  
+**<h3 align="center">I'm a frontend web developer👨‍💻 </h3>**
 
----
+<br>
 
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+<hr>
 
----
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-   🌱 I’m currently learning **React Native**
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+-   💬 Ask me about **Frontend Web Development**
+-   👯 I'm looking to collaborate on **Open source Projects**
+-   **I'm particularly interested in projects that integrate 3d web components**
+-   You can see my projects on **[My Website](https://savion-dev.vercel.app)**
+-   [💬 Get in Touch](mailto:didiapraisechimeka@gmail.com)
+
+<hr>
+
+### 🌐 Socials:
+
+<br>
+<p align="left">
+<a href="https://www.instagram.com/dev_savion/?igsh=dHk1N202cnh3a2Zy&utm_source=qr#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="didia.dev" height="30" width="40" /></a>
+<a href="https://x.com/dev_savion?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="didiauche" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/didia-praise-260682343/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="didiauche" height="30" width="40" /></a>
+</p>
+<hr>
+
+### 💻 Tech Stack:
+
+<br>
+
+<p align="left" > 
+<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a> 
+</p>
+
+### 💻 Tools:
+
+<br>
+<p align="left" > 
+<a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50"/></a>
+</p>
